@@ -1,4 +1,4 @@
-;boot .asm   
+; boot .asm   
     cli
 hang:
     jmp hang
